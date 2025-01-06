@@ -40,3 +40,6 @@ Pro spuštění scraperu použijte následující příkaz:
 
 ```bash
 python main.py 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=5&xnumnuts=4101' 'output_file.csv'
+
+Toto lze využít pro jakýkoliv územní celek například i pro: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101
+
